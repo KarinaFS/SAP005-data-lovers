@@ -199,9 +199,9 @@ A interface foi melhorada de acordo com o teste de usabilidade. A imagem da prim
 
 **Interface app**
 
-![pokemon](src/img/pokek.png)
-![pokemon](src/img/mon.png)
-![pokemon](src/img/pokeke.png)
+![pokemon](src/img/poke.PNG)
+![pokemon](src/img/mon.PNG)
+![pokemon](src/img/pokeke.PNG)
 
 **Interface desktop**
 
