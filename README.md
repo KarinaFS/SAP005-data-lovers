@@ -23,7 +23,7 @@ Criamos essa aplicação pensando nos novos usuários do jogo Pokémon Go. Nosso
 
 O planejamento do projeto foi realizado através do Trello.
 
-![trello](/src/img/trello1.png)
+![trello](src/img/trello1.png)
 
 ### ➡️ Tema
 
@@ -186,13 +186,13 @@ A interface foi melhorada de acordo com o teste de usabilidade. A imagem da prim
 
 **Interface app**
 
-![poke](/src/img/poke.png)
-![mon](/src/img/mon.png)
-![pokeke](/src/img/pokeke.png)
+![poke](src/img/poke.png)
+![mon](src/img/mon.png)
+![pokeke](src/img/pokeke.png)
 
 **Interface desktop**
 
-![img](src/img/responsivo1.jpeg)
+![img](src/img/responsivo.jpeg)
 ![img](src/img/responsivo2.jpeg)
 ![img](src/img/responsivo3.jpeg)
 
@@ -202,7 +202,7 @@ Criamos o protótipo da página inicial e da página para o usuário buscar o Po
 
 **Landing page**
 
-![img](src/img/prototipo.jpeg)
+![img](src/img/prototipo1.jpeg)
 
 **Buscar Pokémon**
 
