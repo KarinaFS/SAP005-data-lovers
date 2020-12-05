@@ -23,7 +23,7 @@ Criamos essa aplicação pensando nos novos usuários do jogo Pokémon Go. Nosso
 
 O planejamento do projeto foi realizado através do Trello.
 
-![paginaweb](src/img/trello.png)
+![trello](src/img/trello.png)
 
 ### ➡️ Tema
 
@@ -35,7 +35,7 @@ Criamos as protopersonas baseado em dados de usuários do jogo Pokémon Go e dep
 
 ### 👨 Protopersona 1
 
-![avatar1](src/img/Avatar_persona_1.png)
+![avatar1](src/img/Avatar_Persona_1.png)
 
 **Nome** Huojin "Felipe" Lin
 
@@ -186,9 +186,9 @@ A interface foi melhorada de acordo com o teste de usabilidade. A imagem da prim
 
 **Interface app**
 
-![img](src/img/poke.png)
-![img](src/img/mon.png)
-![img](src/img/pokeke.png)
+![poke](src/img/poke.png)
+![mon](src/img/mon.png)
+![pokeke](src/img/pokeke.png)
 
 **Interface desktop**
 
