@@ -23,7 +23,7 @@ Criamos essa aplicação pensando nos novos usuários do jogo Pokémon Go. Nosso
 
 O planejamento do projeto foi realizado através do Trello.
 
-![trello](/src/img/trello.png)
+![trello](/src/img/trello1.png)
 
 ### ➡️ Tema
 
@@ -202,7 +202,7 @@ Criamos o protótipo da página inicial e da página para o usuário buscar o Po
 
 **Landing page**
 
-![img](src/img/prototipo1.jpeg)
+![img](src/img/prototipo.jpeg)
 
 **Buscar Pokémon**
 
