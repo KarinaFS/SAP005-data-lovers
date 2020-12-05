@@ -213,8 +213,6 @@ A interface foi melhorada de acordo com o teste de usabilidade. A imagem da prim
 
 Criamos o protótipo da página inicial e da página para o usuário buscar o Pokémon de acordo com as histórias de usuários.
 
-**Buscar Pokémon**
-
 ![img](src/img/prototipo2.jpeg)
 
 ### ➡️ Teste de usabilidade
