@@ -17,8 +17,6 @@ Criamos essa aplicação pensando nos novos usuários do jogo Pokémon Go. Nosso
 
 [Confira aqui](https://karinafs.github.io/battle-win/)
 
----
-
 ## 👩‍💻 2. Desenvolvimento do projeto
 
 ### ➡️ Planejamento
@@ -35,7 +33,7 @@ Escolhemos o tema por uma questão de afinidade com Pokémon e, também, a parti
 
 Criamos as protopersonas baseado em dados de usuários do jogo Pokémon Go e depois adaptamos de acordo com as entrevistas com os usuários reais do jogo. 
 
-👨 **Protopersona 1**
+### 👨 Protopersona 1
 
 ![avatar1](Avatar_persona_1.png)
 
@@ -43,30 +41,26 @@ Criamos as protopersonas baseado em dados de usuários do jogo Pokémon Go e dep
 
 _Tímido, engajado, irritadiço_
 
-### Dados demográficos
+**Dados demográficos**
 - 36 anos
 - Filho de imigrantes chineses
 - Mora com os pais e os avós paternos em Guarulhos, SP
 - Trabalha no restaurante dos pais
 
----
-
-### Comportamentos
+**Comportamentos**
 - Pratica caligrafia chinesa
 - Está fazendo curso de culinária internacional
 - É muito apegado com a avó
 - Gosta muito de jogos dos consoles portáteis e mais antigos (8-bit)
 
----
-
-### Necessidades e objetivos
+**Necessidades e objetivos**
 - Aprender inglês
 - Arranjar uma namorada que não seja chinesa
 - Fazer um curso de gastronomia na Europa (França ou Itália)
 - Ter uma carreira de sucesso
 - Se casar
 
-👩 **Protopersona 2**
+### 👩 Protopersona 2
 
 ![avatar2](avatar_persona_2.png)
 
@@ -76,15 +70,11 @@ _Descontraída, responsável, parceira_
 
 - Advogada
 
-___
-
 **Dados demográficos**
 - 25 anos
 - Mora sozinha no Rio de Janeiro
 - Formada em direito
 - Trabalha em um escritório de advocacia
-
-___
 
 **Comportamentos**
 - Jogar vídeo game (RPG)
@@ -94,8 +84,6 @@ ___
 - Assistir Netflix
 - Levar o cachorro para passear
 
-___
-
 **Necessidades e objetivos**
 - Adotar um gato
 - Morar mais próximo do parque da sua cidade
@@ -104,13 +92,11 @@ ___
 ### ➡️ Entrevistas com jogadores
 
 Realizamos entrevitas com 4 jogadores de Pokémon Go para validarmos as protopersonas e entendermos seus interesses pelo jogo. Fizemos perguntas pessoais como, profissão, idade, hobbes, etc. e também perguntas sobre o jogo como, qual o interesse pelo jogo, queixas de usabilidade e o que ajudaria a ter uma experiência melhor. 
-Percebemos, de uma forma geral, que o maior interesse dos entrevistados pelo jogo é a possibilidade de interagir com outros jogadores, como as [Batalhas de Reides](https://globoesporte.globo.com/esports/noticia/como-batalhar-no-pokemon-go-enfrente-outros-jogadores-no-pvp.ghtml)
-
----
+Percebemos, de uma forma geral, que o maior interesse dos entrevistados pelo jogo é a possibilidade de interagir com outros jogadores, como as [Batalhas de Reides](https://globoesporte.globo.com/esports/noticia/como-batalhar-no-pokemon-go-enfrente-outros-jogadores-no-pvp.ghtml).
 
 ## 📄 3. Histórias de usuários
 
-Com base na entrevista com os usuários, criamos 4 histórias de usuários.
+Com base nas entrevistas com os usuários, criamos 4 histórias de usuários.
 
 ### História 1 | Landing page
 
@@ -191,8 +177,6 @@ Com base na entrevista com os usuários, criamos 4 histórias de usuários.
 * A história implementada foi testada com pelo menos, 3 usuários
 * O código está no GitHub
 
----
-
 ## 🗺️ 4. Interface (UI)
 
 A interface foi melhorada de acordo com o teste de usabilidade. A imagem da primeira página foi pensada no jogo. Clicando no botão **Clique aqui** o usuário é direcionado para a próxima página onde aparece uma mensagem introdutória e um campo para buscar o Pokémon que irá batalhar. Ao clicar no botão **Buscar Pokémon**, aparecerá um card com as informações do Pokémon e, logo abaixo, uma lista em formato de tabela de Pokémons que o usuário poderá usar na batalha para obter vantagem. A lista é baseada no tipo do Pokémon que é forte contra qual o usuário irá batalhar. 
@@ -212,10 +196,6 @@ A interface foi melhorada de acordo com o teste de usabilidade. A imagem da prim
 ![img](responsivo2.jpeg)
 ![img](responsivo3.jpeg)
 
-**Calculo**
-
-????????????????????????? (foto do calculo)
-
 ### ➡️ Protótipo de baixa fidelidade
 
 Criamos o protótipo da página inicial e da página para o usuário buscar o Pokémon de acordo com as histórias de usuários.
@@ -230,7 +210,7 @@ Criamos o protótipo da página inicial e da página para o usuário buscar o Po
 
 ### ➡️ Teste de usabilidade
 
-Realizamos melhoramentos necessários detectados nos testes de usabilidade. Os usuários queriam uma imagem de fundo com mais contexto, e com cores que remetessem mais ao jogo Pokémon Go, e não a jogos mais antigos, como o pokémon stadium (para Nintendo 64). Também solicitaram que ficasse clara a diferença entre o Pokémon do card (rival) e os da tabela (os melhores para serem escolhidos), e por isso foram inseridas as tarjas verdes para identificação.
+Realizamos os melhoramentos necessários detectados nos testes de usabilidade. Os usuários queriam uma imagem de fundo com mais contexto, e com cores que remetessem mais ao jogo Pokémon Go, e não a jogos mais antigos, como o pokémon stadium (para Nintendo 64). Também solicitaram que ficasse clara a diferença entre o Pokémon do card (rival) e os da tabela (os melhores para serem escolhidos), e por isso foram inseridas as tarjas verdes para identificação.
 
 Melhoramentos realizados:
 
