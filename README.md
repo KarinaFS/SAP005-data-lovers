@@ -215,7 +215,7 @@ Criamos o protótipo da página inicial e da página para o usuário buscar o Po
 
 **Landing page**
 
-![img](src/img/prototipo.JPEG)
+![img](src/img/prototipo1.JPEG)
 
 **Buscar Pokémon**
 
