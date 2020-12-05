@@ -192,7 +192,7 @@ A interface foi melhorada de acordo com o teste de usabilidade. A imagem da prim
 
 **Interface desktop**
 
-![img](src/img/responsivo.jpeg)
+![img](src/img/responsivo1.jpeg)
 ![img](src/img/responsivo2.jpeg)
 ![img](src/img/responsivo3.jpeg)
 
@@ -202,7 +202,7 @@ Criamos o protótipo da página inicial e da página para o usuário buscar o Po
 
 **Landing page**
 
-![img](src/img/prototipo1.jpeg)
+![img](src/img/prototipo.jpeg)
 
 **Buscar Pokémon**
 
