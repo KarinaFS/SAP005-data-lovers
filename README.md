@@ -23,7 +23,7 @@ Criamos essa aplicação pensando nos novos usuários do jogo Pokémon Go. Nosso
 
 O planejamento do projeto foi realizado através do Trello.
 
-![paginaweb](trello.png)
+![paginaweb](src/img/trello.png)
 
 ### ➡️ Tema
 
@@ -35,7 +35,7 @@ Criamos as protopersonas baseado em dados de usuários do jogo Pokémon Go e dep
 
 ### 👨 Protopersona 1
 
-![avatar1](Avatar_persona_1.png)
+![avatar1](src/img/Avatar_persona_1.png)
 
 **Nome** Huojin "Felipe" Lin
 
@@ -62,7 +62,7 @@ _Tímido, engajado, irritadiço_
 
 ### 👩 Protopersona 2
 
-![avatar2](avatar_persona_2.png)
+![avatar2](src/img/avatar_persona_2.png)
 
 **Nome** Fernanda Silva
 
@@ -186,15 +186,15 @@ A interface foi melhorada de acordo com o teste de usabilidade. A imagem da prim
 
 **Interface app**
 
-![img](poke.png)
-![img](mon.png)
-![img](pokeke.png)
+![img](src/img/poke.png)
+![img](src/img/mon.png)
+![img](src/img/pokeke.png)
 
 **Interface desktop**
 
-![img](responsivo1.jpeg)
-![img](responsivo2.jpeg)
-![img](responsivo3.jpeg)
+![img](src/img/responsivo1.jpeg)
+![img](src/img/responsivo2.jpeg)
+![img](src/img/responsivo3.jpeg)
 
 ### ➡️ Protótipo de baixa fidelidade
 
@@ -202,11 +202,11 @@ Criamos o protótipo da página inicial e da página para o usuário buscar o Po
 
 **Landing page**
 
-![img](prototipo1.jpeg)
+![img](src/img/prototipo1.jpeg)
 
 **Buscar Pokémon**
 
-![img](prototipo2.jpeg)
+![img](src/img/prototipo2.jpeg)
 
 ### ➡️ Teste de usabilidade
 
@@ -218,39 +218,37 @@ Melhoramentos realizados:
 
 * Primeira versão
 
-![landing-page](landing-page.png)
+![landing-page](src/img/landing-page.png)
 
 * Versão final
 
-![final-version](final-version.png)
+![final-version](src/img/final-version.png)
 
 **Card**
 
 * Primeira versão
 
-![card-inicial](card-inicial.png)
+![card-inicial](src/img/card-inicial.png)
 
 * Versão final
 
-![card-final](card-final.png)
+![card-final](src/img/card-final.png)
 
 **Tabela**
 
 * Primeira versão
 
-![tabela1](tabela1.jpeg)
+![tabela1](src/img/tabela1.jpeg)
 
 * Versão final
 
-![tabela2](tabela2.png)
-
----
+![tabela2](src/img/tabela2.png)
 
 ## 🔨 5. Testes unitários
 
 A aplicação passa em 100% dos testes.
 
-![testes](test-pass.png)
+![testes](src/img/test-pass.png)
 
 ---
 
