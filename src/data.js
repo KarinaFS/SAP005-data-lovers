@@ -41,8 +41,14 @@ export const filterAllPokemonByType = pokemons => {
   return types
 }
 
+<<<<<<< HEAD
+
+export function filterPokemonByRivalWeakness() { //função que tras a tabela
+  const rivalWeakness = bringRivalPokemon(pokemons, namePokemonInput).weaknesses
+=======
 export const filterPokemonByRivalWeakness = (pokemons, userInput) => {
   const rivalWeakness = bringRivalPokemon(pokemons, userInput).weaknesses
+>>>>>>> fae228ece152b68445dc3b0600f3370455e64189
   const pokemonByType = filterAllPokemonByType(pokemons)
   let bestPokemon = []
 
@@ -53,12 +59,20 @@ export const filterPokemonByRivalWeakness = (pokemons, userInput) => {
       }
     }
   }
-  return Array.from(new Set(bestPokemon));
+  return Array.from(new Set (bestPokemon));
 }
 
+<<<<<<< HEAD
+
+
+export const orderBestPokemonByCP = () => {
+  const crescentOrder = filterPokemonByRivalWeakness()
+  const decrescentOrder = filterPokemonByRivalWeakness()
+=======
 export const orderBestPokemonByCP = (pokemons, userInput) => {
   const crescentOrder = filterPokemonByRivalWeakness(pokemons, userInput)
   const decrescentOrder = filterPokemonByRivalWeakness(pokemons, userInput)
+>>>>>>> fae228ece152b68445dc3b0600f3370455e64189
 
   function comparisonByCP(pokemonA, pokemonB) {
     const pokemonA_CP = pokemonA.stats["max-cp"]
