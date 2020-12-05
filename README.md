@@ -11,11 +11,16 @@
 
 ***
 
+
 ## 📌 1. Definição de produto
 
 Criamos essa aplicação pensando nos novos usuários do jogo Pokémon Go. Nosso site permite que esses usuários possam buscar pelo Pokémon que irá batalhar e de forma rápida, ter acesso as informações desse Pokémon. Ao buscar o Pokémon, o usuário também terá acesso a uma tabela com os Pokémons que ele poderá usar na batalha para obter vantagem.
 
 [Confira aqui](https://karinafs.github.io/battle-win/)
+
+
+***
+
 
 ## 👩‍💻 2. Desenvolvimento do projeto
 
@@ -35,7 +40,7 @@ Criamos as protopersonas baseado em dados de usuários do jogo Pokémon Go e dep
 
 ### 👨 Protopersona 1
 
-![avatar1](src/img/Avatar_Persona_1.png)
+![avatar1](src/img/avatar-persona-1.png)
 
 **Nome** Huojin "Felipe" Lin
 
@@ -93,6 +98,10 @@ _Descontraída, responsável, parceira_
 
 Realizamos entrevitas com 4 jogadores de Pokémon Go para validarmos as protopersonas e entendermos seus interesses pelo jogo. Fizemos perguntas pessoais como, profissão, idade, hobbes, etc. e também perguntas sobre o jogo como, qual o interesse pelo jogo, queixas de usabilidade e o que ajudaria a ter uma experiência melhor. 
 Percebemos, de uma forma geral, que o maior interesse dos entrevistados pelo jogo é a possibilidade de interagir com outros jogadores, como as [Batalhas de Reides](https://globoesporte.globo.com/esports/noticia/como-batalhar-no-pokemon-go-enfrente-outros-jogadores-no-pvp.ghtml).
+
+
+***
+
 
 ## 📄 3. Histórias de usuários
 
@@ -177,6 +186,10 @@ Com base nas entrevistas com os usuários, criamos 4 histórias de usuários.
 * A história implementada foi testada com pelo menos, 3 usuários
 * O código está no GitHub
 
+
+***
+
+
 ## 🗺️ 4. Interface (UI)
 
 A interface foi melhorada de acordo com o teste de usabilidade. A imagem da primeira página foi pensada no jogo. Clicando no botão **Clique aqui** o usuário é direcionado para a próxima página onde aparece uma mensagem introdutória e um campo para buscar o Pokémon que irá batalhar. Ao clicar no botão **Buscar Pokémon**, aparecerá um card com as informações do Pokémon e, logo abaixo, uma lista em formato de tabela de Pokémons que o usuário poderá usar na batalha para obter vantagem. A lista é baseada no tipo do Pokémon que é forte contra qual o usuário irá batalhar. 
@@ -243,6 +256,10 @@ Melhoramentos realizados:
 * Versão final
 
 ![tabela2](src/img/tabela2.png)
+
+
+***
+
 
 ## 🔨 5. Testes unitários
 
