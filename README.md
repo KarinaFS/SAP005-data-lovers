@@ -40,7 +40,7 @@ Criamos as protopersonas baseado em dados de usuários do jogo Pokémon Go e dep
 
 ### 👨 Protopersona 1
 
-![avatar1](src/img/avatar-persona-1.png)
+![avatar1](src/img/Avatar Persona 1.png)
 
 **Nome** Huojin "Felipe" Lin
 
