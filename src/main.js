@@ -17,9 +17,6 @@ const orderByNameA_Z = document.getElementById("btn-a-z");
 const orderByNameZ_A = document.getElementById("btn-z-a");
 const pokemonTableRow = document.querySelector(".pokemon-table-row");
 
-<<<<<<< HEAD
-// FUNÇÃO PARA EXIBIR TABELA
-=======
 
 // CLICAR PARA BUSCAR POKÉMON
 searchButton.addEventListener("click", event => {
@@ -43,7 +40,6 @@ searchButton.addEventListener("click", event => {
 })
 
 // TABELA DE POkÉMONS VANTAJOSOS
->>>>>>> fae228ece152b68445dc3b0600f3370455e64189
 function showTable(pokemonArray) {
   let row = ""
   for (let pokemon of pokemonArray) {
@@ -65,34 +61,6 @@ function showTable(pokemonArray) {
   return row
 }
 
-<<<<<<< HEAD
-// CLICAR PARA BUSCAR POKÉMON
-
-searchPokemon.addEventListener("click", event => {
-  event.preventDefault();
-  document.getElementById("flex-container").className = "";
-  document.getElementById("ordering-options").classList.remove("hidden")
-  document.getElementById("table-section").classList.remove("hidden")
-  //const userInput = namePokemonInput.value
-  const bringPokemon = bringRivalPokemon(pokemons, namePokemonInput);
-
-
-  // EXIBIR CARD
-  pokemonImg.innerHTML = `<img src="${bringPokemon.img}"></img>`
-  pokemonNum.innerHTML = `Número: ${bringPokemon.num}`
-  pokemonName.innerHTML = `Nome: <span class="name-uppercase">${bringPokemon.name}</span>`
-  pokemonType.innerHTML = `Tipo(s): <span class="type-uppercase"> ${bringPokemon.type.join(", ")}</span>`
-  pokemonResistant.innerHTML = `Resistência(s): <span class="resistant-uppercase"> ${bringPokemon.resistant.join(", ")}</span>`
-  pokemonWeaknesses.innerHTML = `Fraqueza(s): <span class="weaknesses-uppercase"> ${bringPokemon.weaknesses.join(", ")}</span>`
-
-
-  // EXIBIR TABELA PADRÃO
-  pokemonTableRow.innerHTML = showTable(orderBestPokemonByCP().decrescentOrder);
-})
-
-
-=======
->>>>>>> fae228ece152b68445dc3b0600f3370455e64189
 // EVENTOS DE ORDENAÇÃO DE CP
 // CRESCENTE
 
@@ -120,11 +88,6 @@ orderByNameA_Z.addEventListener("click", event => {
 // Z-A
 orderByNameZ_A.addEventListener("click", event => {
   event.preventDefault();
-<<<<<<< HEAD
-  pokemonTableRow.innerHTML = showTable(orderBestPokemonByName().Z_A);
-})
-=======
   const userInput = getUserInput.value;
   pokemonTableRow.innerHTML = showTable(orderBestPokemonByName(pokemons, userInput).Z_A);
 })
->>>>>>> fae228ece152b68445dc3b0600f3370455e64189
